@@ -3,10 +3,18 @@ header {
     background-color: bisque;
 }
 
+html {
+    background-color: bisque;
+}
+
 main {
     display: flex;
     flex-direction: row;  
     background-color: bisque;
+}
+
+.carousel img {
+    border-radius: 5%;
 }
 
 aside {
